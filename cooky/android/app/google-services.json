@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339372006678",
+    "firebase_url": "https://cookyapp-7187b.firebaseio.com",
+    "project_id": "cookyapp-7187b",
+    "storage_bucket": "cookyapp-7187b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339372006678:android:8f0372fdab0c9b69c30437",
+        "android_client_info": {
+          "package_name": "com.example.cooky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339372006678-br10photpgfvdap2g2hfj9sqmgba5064.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cooky",
+            "certificate_hash": "5e4d65843b5201f0712cc49cf3bf0a19b7f0be35"
+          }
+        },
+        {
+          "client_id": "339372006678-cul01iq4mob85tucj6v9hh7ampu9gp9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvufrE0bOa1vm14SZskW1siKRh7ZJDGT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339372006678-cul01iq4mob85tucj6v9hh7ampu9gp9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
